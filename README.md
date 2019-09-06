@@ -1,4 +1,4 @@
-# coeficiente-agrupamento
+# Coeficiente de Agrupamento
 Trabalho para fins da disciplina na Grafos, UFPR.
 
 Neste trabalho implementaremos um algoritmo que calcula a prevalência de um fenômeno bastante conhecido na terminogia usada nos estudos de redes sociais chamado de fecho triádico. Um fecho triádico ocorre em uma rede social se duas pessoas que tem um amigo em comum também são amigas entre si. Chama-se de coeficiente de agrupamento a medida da frequência com que este fenômeno ocorre.
